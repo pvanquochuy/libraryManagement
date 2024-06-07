@@ -1,0 +1,2 @@
+CD [id=2, title=2, publicsher=2, year=2, status=false, artist=2]
+CD [id=23, title=3, publicsher=3, year=3, status=false, artist=3]
